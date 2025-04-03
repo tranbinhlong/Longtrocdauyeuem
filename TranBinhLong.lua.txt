@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- discord.gg/u9fxwtWc
 
 
 shared.LoaderTitle = "Đăng Ký Kênh TranBinhLong";
